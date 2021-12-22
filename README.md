@@ -1,5 +1,5 @@
 # Notebooks-Technical_Applications_Data_Management
-Notebooks from the lecture held at Fresenius University of Applied Sciences. Target
+Slides and notebooks from the lecture held at Fresenius University of Applied Sciences, Munich, Germany.
 
 ## Course Description
 This course is a 10-week long introduction into Data Science and Artificial Intelligence.
