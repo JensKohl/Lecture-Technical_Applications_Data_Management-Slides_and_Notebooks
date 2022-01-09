@@ -4,7 +4,8 @@ Here you can find the accompanying notebooks for the lecture:
 * Lecture 1-4: Workflow Data Science on the use case Titanic.
 * Lecture 5: Unsupervised Learning
 * Lecture 6: Supervised Learning 
-  * Overview Supervised Learning Algorithms
+  * Using Supervised Learning Algorithms for classifying Iris flowers
+  * Using Supervised Learning Algorithms for regressing values
   * (simple) Case Study Wine quality
   * (simple) case Study hospital
 * Lecture 7: 
