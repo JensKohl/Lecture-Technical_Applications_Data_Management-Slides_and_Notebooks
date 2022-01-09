@@ -6,4 +6,7 @@ This course is a 10-week long introduction into Data Science and Artificial Inte
 
 Through tutorials, several programming assignments and a final project as group homework, the students learn to to code their own analyses and AI models via Python and Python Libraries Pandas, SciKit-Learn, Keras/ Tensorflow on Google Colabs.
 
- Content currently in revision, upload will follow...
+Content currently in German.
+
+ Notebooks for the lecture uploaded, feedback most appreciated... :-)
+  Slides currently in revision, upload will follow...
