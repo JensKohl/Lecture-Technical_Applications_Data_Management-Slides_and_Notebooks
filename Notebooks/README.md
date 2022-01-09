@@ -13,6 +13,8 @@ Here you can find the accompanying notebooks for the lecture:
   * Case Study Detecting Malaria via CNN
 * Lecture 8: Recurrent Neural Networks.
 
+The relevant datasets can be found in the folder Datasets.
+
 If not mentioned explicitely, code was written by myself.
 
 Feedback greatly appreciated!
